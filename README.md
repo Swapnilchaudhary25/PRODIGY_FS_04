@@ -32,7 +32,7 @@ This project supports **user registration**, **JWT login**, and **live chat in d
 
 ### 1. Clone the repository  
 
-git clone [Click Here](https://github.com/Saurabh9122-tech/PRODIGY_FS_04)  
+git clone   
 cd realtime-chat-app  
 ### 2. Setup backend  
 cd backend  
@@ -45,9 +45,7 @@ JWT_SECRET=your_secret_key_here
 npm run dev  
 ### 4. Access frontend  
 Open your browser and go to:http://localhost:5000  
-# 🎥 Demo Video
-[![Watch Demo](https://img.youtube.com/vi/wHsrfc1sk_o/0.jpg)](https://youtu.be/wHsrfc1sk_o)  
- [Click here to watch on YouTube »](https://youtu.be/wHsrfc1sk_o)  
+ 
 # 📸 Screenshots 
 ## 🔐 Signup Page  
 ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)  
