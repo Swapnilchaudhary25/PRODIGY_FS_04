@@ -70,13 +70,5 @@ realtime-chat-app/
 ├── .gitignore  
 └── README.md  
 # ✨ Credits  
-Created by **SAURABH KUMAR**  
+Created by **SWAPNIL CHAUDHARY**  
 For internship project or personal learning – feel free to fork, use, or extend.  
-# 👨‍💻 About  
-   #### Linkdin
-[Sauraabh Kumar](www.linkedin.com/in/saurabh-kumar-9999s)
-   #### Youtube 
-[CLICK](https://www.youtube.com/channel/UCo6S7_jvZi_V_06co2yCEEA)
-
-# 📜 License  
-This project is open-source and available under the [MIT License.](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/LICENSE)  
